@@ -41,7 +41,7 @@ ________________________
 
 ## Nazgul Files
 
-The Nazgul Files are a series of emails I've been able to MITM and steal from some of Nazgul's field agents. I guess they don't take security protocol as seriously as you'd think for a corporation of their nature. Or they were just so bold they didn't think anyone would even try it. 
+The Nazgul Files are a series of emails I've been able to MITM and steal (with help, tho can't say from who yet) from some of Nazgul's field agents. I guess they don't take security protocol as seriously as you'd think for a corporation of their nature. Or they were just so bold they didn't think anyone would even try it. 
 
 Anyways, I'm going to start making some of my more interesting findings available. I'm not much of a hacker, more of a gamer, so I'm sorry that this site doesn't look better and isn't better organized. It took a lot of work to even intercept what I have now, so I'm not really sure if I'll have more updates later, or how frequent they'll be if I do.
 
